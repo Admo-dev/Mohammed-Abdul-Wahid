@@ -212,6 +212,7 @@ label {
   body .home .btn {
     font-size: 1.3rem;
     margin-bottom: 5rem;
+    cursor: pointer;
   }
 
   body .About {
@@ -717,4 +718,5 @@ label {
 
 .footer .footer-icon i:hover  {
   background: rgb(176, 0, 0)
+
 }
